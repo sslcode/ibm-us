@@ -68,8 +68,7 @@ jobs:
               "settings": {
                 "clients": [
                   {
-                    "id": "${V2_UUID}",
-                    "alterId": 64
+                    "id": "${V2_UUID}"
                   }
                 ]
               },
